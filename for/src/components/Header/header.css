@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header_outer_container {
+    position: sticky;
+    top: 0;
+    background-color: black;  
+    height: 10vh;
+    color: white;
+    transition: all 0.5s;  
+    z-index: 1;
+    width: 100%; 
+    padding: 0; 
+    margin: 0;
+}
+
+.header_container {
+    display: flex;                   
+    justify-content: space-between;
+    align-items: center;            
+    padding: 0;  
+    width: 100%; 
+}                  
+
+.header_left {
+    display: flex;                  
+    align-items: center;          
+}
+
+.for {
+    display: flex; 
+    list-style-type: none;                
+}
+
+.for li {
+    margin-left: 27px; 
+    margin-top: 15px;           
+}
+
+.header_right {
+    display: flex;                 
+    align-items: center;          
+}
+
+.header_right li {
+    margin-left: 20px;            
+}
+
+.right-menu {
+    display: flex;
+    list-style-type: none;  
+}

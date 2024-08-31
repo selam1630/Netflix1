@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/selam1630/Netflix1.git%20/static/css/main.0c44b740.css",
+    "main.js": "/selam1630/Netflix1.git%20/static/js/main.75196670.js",
+    "static/js/453.315fae97.chunk.js": "/selam1630/Netflix1.git%20/static/js/453.315fae97.chunk.js",
+    "static/media/Netflix_Logo_RGB.png": "/selam1630/Netflix1.git%20/static/media/Netflix_Logo_RGB.f4070143e1f521da82a1.png",
+    "index.html": "/selam1630/Netflix1.git%20/index.html",
+    "main.0c44b740.css.map": "/selam1630/Netflix1.git%20/static/css/main.0c44b740.css.map",
+    "main.75196670.js.map": "/selam1630/Netflix1.git%20/static/js/main.75196670.js.map",
+    "453.315fae97.chunk.js.map": "/selam1630/Netflix1.git%20/static/js/453.315fae97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c44b740.css",
+    "static/js/main.75196670.js"
+  ]
+}
